@@ -1,0 +1,5 @@
+{
+  "name": "Network Devices Quiz",
+  "description": "An interactive quiz application designed for 12th-grade students to practice and test their knowledge on network devices like Hubs, Switches, Routers, and Modems. The app features multiple activities, real-time scoring, and a leaderboard system.",
+  "requestFramePermissions": []
+}
